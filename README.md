@@ -22,13 +22,30 @@ Not sure how much more I can say about it, but here's a few basic examples to gi
 
 
 
-## HACS installation
+## Installation
 
-The first step is to add this repository into your Home Assistant via HACS, which you can do via the handy button below.
+<br>
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=loryanstrant&repository=blackout&category=theme)
+### With HACS (recommended)
 
-The second step is to refresh your browser.
+(If you're not yet using the [Home Assistant Community Store (HACS)](https://hacs.xyz/), then do that first and come back here.)
+
+- Open HACS from within Home Assistant
+- Search for "Blackout" or even "Loryan"
+- Click on "Blackout Theme"
+- Click "Download"
+
+<br>
+
+### Without HACS
+
+Download the **blackout.yaml** file from the themes folder in this repository and copy it to _your_ themes folder in Home Assistant.
+
+
+<br><br>
+### After either installation method
+
+Regardless of installation method chosen you will need to refresh your browser.
 
 That's it, you're ready to use it!
 
