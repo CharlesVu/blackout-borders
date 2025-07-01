@@ -2,7 +2,7 @@
 A really simple theme for Home Assistant... no borders, nothing, just pure black!
 
 
-Not sure how much more I can say about it, but here's some examples to give you some context.
+Not sure how much more I can say about it, but here's a few basic examples to give you some context.
 
 
 ### Example
