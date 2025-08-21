@@ -4,11 +4,18 @@
 # GitHub: https://github.com/loryanstrant
 #
 Blackout:
+  token-size-radius-small: 12px
+  token-size-radius-medium: 16px
+  token-size-radius-large: 20px
+  token-size-radius-card: var(--token-size-radius-large)
+  token-color-border-card: white
   primary-background-color: 'black'
   card-background-color: 'black'
   primary-text-color: 'white'
   secondary-text-color: 'lightgray'
   card-border-color: 'transparent'
-  ha-card-border-width: '0px'
-  ha-card-border-radius: '0px'
+  ha-card-border-radius: var(--token-size-radius-card)
+  ha-card-border-color: var(--token-color-border-card)
+  ha-card-border-width: 2px
+  ha-card-border-style: solid
   ha-card-box-shadow: 'none'
